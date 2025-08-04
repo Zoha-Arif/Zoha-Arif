@@ -5,6 +5,6 @@
 💻 Building tools at the intersection of behavior, data, and full-stack development
 
 ### 🔧 Technologies I Work With
-- **Languages**: Python, Matlab, Java, JavaScript, HTML/CSS
+- **Languages**: Python, Matlab, Java, C++, JavaScript, HTML/CSS
 - **Frameworks**: Tensorflow, PyTorch, NumPy, Pandas  
 - **Tools**: Git, VSCode, LaTeX, SLURM
